@@ -1,0 +1,35 @@
+﻿  main.cpp
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(209): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(220): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(234): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(237): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(281): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(333): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(370): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(396): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(467): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(481): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(502): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(546): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(570): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(592): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(628): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(691): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(700): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(733): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(802): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(834): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(868): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(878): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(910): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(919): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(935): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(939): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(945): warning C4018: '>=': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(961): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(965): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(971): warning C4018: '>=': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(1012): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(1030): warning C4018: '<': signed/unsigned mismatch
+c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(1040): warning C4018: '<': signed/unsigned mismatch
+  FANBLDG2.vcxproj -> C:\Users\olivi\source\repos\FANBLDG2\Debug\FANBLDG2.exe

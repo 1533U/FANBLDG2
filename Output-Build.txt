@@ -1,0 +1,39 @@
+﻿1>------ Build started: Project: FANBLDG2, Configuration: Debug Win32 ------
+1>main.cpp
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(209): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(220): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(234): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(237): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(281): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(333): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(370): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(396): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(467): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(481): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(499): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(543): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(567): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(585): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(621): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(684): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(693): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(726): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(795): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(827): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(860): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(870): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(902): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(911): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(927): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(931): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(937): warning C4018: '>=': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(953): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(957): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(963): warning C4018: '>=': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(1004): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(1022): warning C4018: '<': signed/unsigned mismatch
+1>c:\users\olivi\source\repos\fanbldg2\fanbldg2\main.cpp(1032): warning C4018: '<': signed/unsigned mismatch
+1>LINK : C:\Users\olivi\source\repos\FANBLDG2\Debug\FANBLDG2.exe not found or not built by the last incremental link; performing full link
+1>FANBLDG2.vcxproj -> C:\Users\olivi\source\repos\FANBLDG2\Debug\FANBLDG2.exe
+1>Done building project "FANBLDG2.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

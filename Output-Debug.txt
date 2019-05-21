@@ -1,0 +1,20 @@
+﻿'FANBLDG2.exe' (Win32): Loaded 'C:\Users\olivi\source\repos\FANBLDG2\Debug\FANBLDG2.exe'. Symbols loaded.
+'FANBLDG2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'FANBLDG2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'FANBLDG2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'FANBLDG2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. Cannot find or open the PDB file.
+'FANBLDG2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. Cannot find or open the PDB file.
+'FANBLDG2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'FANBLDG2.exe' (Win32): Unloaded 'C:\Windows\SysWOW64\ucrtbased.dll'
+'FANBLDG2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. Cannot find or open the PDB file.
+'FANBLDG2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. Cannot find or open the PDB file.
+'FANBLDG2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. Cannot find or open the PDB file.
+'FANBLDG2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. Cannot find or open the PDB file.
+'FANBLDG2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. Cannot find or open the PDB file.
+'FANBLDG2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. Cannot find or open the PDB file.
+'FANBLDG2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. Cannot find or open the PDB file.
+'FANBLDG2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. Cannot find or open the PDB file.
+The thread 0xfbc has exited with code 0 (0x0).
+The thread 0x3b04 has exited with code 0 (0x0).
+The thread 0x257c has exited with code 0 (0x0).
+The program '[3204] FANBLDG2.exe' has exited with code 0 (0x0).
