@@ -119,7 +119,7 @@ int main(int argc, char *argv[])
 		 if (!ifs4.is_open()) {
 			 cerr << "cannot open " << filelocation << " for input" << endl;
 
-		 }	
+		 }
 
 
 		 double usergape;
